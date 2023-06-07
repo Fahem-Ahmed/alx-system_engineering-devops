@@ -1,2 +1,2 @@
 #!/bin/bash
-popd /var
+pushd /tmp popd /var
